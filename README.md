@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Joe 👋
 
-Welcome to my GitHub! I'm Joe, also known as Java-Heapler, a dedicated Java developer with a keen interest in data structures, especially heaps, and their application in real-world problems.
+Welcome to my GitHub! I'm Joe, also known as Java-Heapler. While the Java part of my username is a bit of a legacy joke, I have a keen interest in data structures, especially heaps :) and their application in real-world problems.
 
 🔭 I’m currently working on enhancing Java-based applications for scalable enterprise solutions.
 
-🌱 I’m perpetually learning about advanced Java frameworks and exploring the frontiers of machine learning integration with Java.
+🌱 I’m also innovating in Python, Django, microservices, full-stack development, and AI.
 
-💬 Ask me about anything Java-related, from Spring Boot to JavaFX, or my journey through complex heap data structures!
+💬 Ask me about anything Java-related, from Spring Boot to JavaFX, or my journey through complex heap data structures! Also feel free to discuss Python, Django, and modern microservices architectures.
 
 📫 Reach out to me at [email@email.com](mailto:email@email.com)
 
@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm Joe, also known as Java-Heapler, a dedicated Java deve
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
