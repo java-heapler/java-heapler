@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm Joe, also known as Java-Heapler. While the Java part o
 
 💬 Ask me about anything Java-related, from Spring Boot to JavaFX, or my journey through complex heap data structures! Also feel free to discuss Python, Django, and modern microservices architectures.
 
-📫 Reach out to me at [email@email.com](mailto:email@email.com)
+📫 Reach out to me at [email@email.com](mailto:jheupler@berkeley.edu)
 
 🔗 Connect with me on LinkedIn: [linkedin.com/in/java-heapler](https://www.linkedin.com/in/java-heapler)
 
