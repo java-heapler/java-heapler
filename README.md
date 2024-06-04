@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Joe, also known as Java-Heapler. While the Java part o
 
 📫 Reach out to me at [jheupler@berkeley.edu](mailto:jheupler@berkeley.edu)
 
-🔗 Connect with me on LinkedIn: [linkedin.com/in/java-heapler](https://www.linkedin.com/in/java-heapler)
+🔗 Connect with me on LinkedIn: [linkedin.com/in/joseph-heupler](https://www.linkedin.com/in/java-heapler)
 
 **Languages and Tools:**
 
