@@ -123,17 +123,11 @@ I'm **Joe** — an AI engineer who ships **production agentic systems, RAG pipel
   <img src="https://github-profile-trophy.vercel.app/?username=java-heapler&theme=onedark&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
-### Contribution Graph
+### Contribution Activity
 
 <p align="center">
-  <img alt="3D contribution graph — blue / AI themed, generated daily" src="./profile-3d-contrib/profile-blue-ai.svg" width="100%" />
+  <img alt="Contribution activity graph — blue / AI themed" src="https://github-readme-activity-graph.vercel.app/graph?username=java-heapler&bg_color=071428&title_color=39A7FF&color=c9d1d9&line=1E5FD9&point=8BD0FF&area=true&area_color=0A1F44&hide_border=true&custom_title=Contribution%20Activity&days=120" width="100%" />
 </p>
-
-**What these towers mean**
-
-- **Tall** weeks = shipping agents & RAG pipelines
-- **Flat** stretches = deep-research / eval-tuning weeks
-- **Spiky** weekends = side projects → [josephheupler.com](https://josephheupler.com)
 
 ### Let's Build Something
 
