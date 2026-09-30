@@ -123,11 +123,13 @@ I'm **Joe** — an AI engineer who ships **production agentic systems, RAG pipel
   <img src="https://github-profile-trophy.vercel.app/?username=java-heapler&theme=onedark&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
-### Contribution Activity
+### Contribution Graph
 
-<p align="center">
-  <img alt="Contribution activity graph — blue / AI themed" src="https://github-readme-activity-graph.vercel.app/graph?username=java-heapler&bg_color=071428&title_color=39A7FF&color=c9d1d9&line=1E5FD9&point=8BD0FF&area=true&area_color=0A1F44&hide_border=true&custom_title=Contribution%20Activity&days=120" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" />
+  <img alt="Contribution snake — eating real commits, generated daily" src="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" width="100%" />
+</picture>
 
 ### Let's Build Something
 
