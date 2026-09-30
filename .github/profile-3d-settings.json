@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-blue-ai.svg",
+  "backgroundColor": "#071428",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#39A7FF",
+  "weakColor": "#8b949e",
+  "radarColor": "#1E5FD9",
+  "growingAnimation": true,
+  "contribColors": [
+    "#0A1F44",
+    "#12386E",
+    "#1E5FD9",
+    "#39A7FF",
+    "#8BD0FF"
+  ]
+}

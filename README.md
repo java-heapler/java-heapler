@@ -125,11 +125,15 @@ I'm **Joe** — an AI engineer who ships **production agentic systems, RAG pipel
 
 ### Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" />
-  <img alt="Contribution snake animation — eating real commits, generated daily" src="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img alt="3D contribution graph — blue / AI themed, generated daily" src="./profile-3d-contrib/profile-blue-ai.svg" width="100%" />
+</p>
+
+**What these towers mean**
+
+- **Tall** weeks = shipping agents & RAG pipelines
+- **Flat** stretches = deep-research / eval-tuning weeks
+- **Spiky** weekends = side projects → [josephheupler.com](https://josephheupler.com)
 
 ### Let's Build Something
 
