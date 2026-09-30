@@ -125,9 +125,11 @@ I'm **Joe** — an AI engineer who ships **production agentic systems, RAG pipel
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/java-heapler/java-heapler/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" />
+  <img alt="Contribution snake animation — eating real commits, generated daily" src="https://raw.githubusercontent.com/java-heapler/java-heapler/output/snake.svg" width="100%" />
+</picture>
 
 ### Let's Build Something
 
