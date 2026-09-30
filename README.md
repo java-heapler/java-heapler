@@ -49,8 +49,8 @@ Hi, I'm **Joe** — a.k.a. **Java-Heapler**. The "Java" is a legacy joke, but th
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=java-heapler&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=39A7FF&icon_color=1E5FD9&text_color=c9d1d9&bg_color=071428" alt="Java-Heapler's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-heapler&layout=compact&hide_border=true&title_color=39A7FF&text_color=c9d1d9&bg_color=071428" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-theta-lyart-16.vercel.app/api?username=java-heapler&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=39A7FF&icon_color=1E5FD9&text_color=c9d1d9&bg_color=071428" alt="Java-Heapler's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-theta-lyart-16.vercel.app/api/top-langs/?username=java-heapler&layout=compact&count_private=true&hide_border=true&title_color=39A7FF&text_color=c9d1d9&bg_color=071428" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
